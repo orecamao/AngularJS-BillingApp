@@ -1,0 +1,14 @@
+{
+
+	"version":"1.0.0",
+	"aplicativo": "facturación",
+	"iniciales":"BETA",
+	"autor":"Fernando Herrera",
+	"anio": 2016,
+	"web": "http://www.tucancode.com",
+	"empresa":"Tucancode",
+	"correo":"fernando.herrera85@gmail.com",
+	"telefono":"(504) 2233-3212",
+	"direccion": "Avenida XYZ, 300mts norte de la calle 123",
+	"ISV": 0.12
+}
