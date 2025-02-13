@@ -11,4 +11,4 @@ Pasos:
 5. Crear la Base de Datos facturacion_dp.sql en phpMyAdmin local
 6. Crear las tablas usuarios.sql y clientes.sql en phpMyAdmin local
 
-Nota: AngularJS actualmente se encuentra deprecado. En algún momento podrían haber problemas soporte para este framework con respecto a las demás herramientas utilizadas en este proyecto.
+Nota: AngularJS actualmente se encuentra deprecado. En algún momento podrían haber problemas de soporte para este framework con respecto a las demás herramientas utilizadas en este proyecto.
